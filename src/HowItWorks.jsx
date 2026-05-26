@@ -54,7 +54,7 @@ const HowItWorks = () => {
 
                     <div className="flex justify-center">
                         <div className="border border-[#2f2f83] rounded-[40px] p-6 bg-white shadow-2xl hover:shadow-3xl hover:scale-105 transition-all duration-300 cursor-pointer">
-                            <img src="/assets/Background+Border+Shadow.png" alt="RelmPay interface" className="w-full max-w-350px object-contain" />
+                            <img src="/assets/Background+Border+Shadow.png" alt="RelmPay interface" className="w-full max-w-[350px] object-contain" />
                         </div>
                     </div>
                 </div>
