@@ -13,13 +13,13 @@ const Navbar = () => {
 
                 {/* LOGO */}
                 <div className="flex items-center gap-2">
-                    <a href="#home" className="cursor-pointer hover:opacity-80 transition">
+                    <Link to="/#home" className="cursor-pointer hover:opacity-80 transition">
                         <img
                             src="/assets/relmpayLogoNormal 1.png"
                             alt="RelmPay Logo"
                             className="w-18 h-18 object-contain"
                         />
-                    </a>
+                    </Link>
 
                     {/* <h1 className="text-3xl font-bold text-[#1D2B6B]">
             RELM<span className="text-[#2F7F8D]">PAY</span>
